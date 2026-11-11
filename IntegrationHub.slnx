@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IntegrationHub.Api/IntegrationHub.Api.csproj" />
+  <Project Path="IntegrationHub.Application/IntegrationHub.Application.csproj" />
+  <Project Path="IntegrationHub.Domain/IntegrationHub.Domain.csproj" />
+  <Project Path="IntegrationHub.Infrastructure/IntegrationHub.Infrastructure.csproj" />
+</Solution>
